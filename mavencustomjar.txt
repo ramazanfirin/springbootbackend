@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=c:\maven\AyonixFaceID-2.3.jar -DgroupId=com.ayonix -DartifactId=ayonix -Dversion=2.3 -Dpackaging=jar

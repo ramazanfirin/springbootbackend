@@ -1,0 +1,1 @@
+java -Dserver.port=9999 -jar target/spring-boot-backend-0.0.1-SNAPSHOT.jar
